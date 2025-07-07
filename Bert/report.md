@@ -10,3 +10,11 @@ Case2:
 ✅ Apply Linear Learning Rate Decay
 
 <img width="804" alt="Screenshot 2025-07-06 at 11 34 08 PM" src="https://github.com/user-attachments/assets/8b5e2631-0ef7-4705-94dd-50dfb5e5916e" />
+
+Case3:
+✅ get_cosine_schedule_with_warmup
+✅ Change doc_stride to 50
+✅ max_paragraph_len = 300
+<img width="958" alt="Screenshot 2025-07-07 at 12 19 38 AM" src="https://github.com/user-attachments/assets/8bd815cb-50af-4989-be7e-054b6d989884" />
+
+

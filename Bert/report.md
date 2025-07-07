@@ -7,4 +7,4 @@ Case2:
 ✅ Hyperparameter tuning (doc_stride)
 ✅ Postprocessing fixes (empty answer elimination)
 ✅ Apply Linear Learning Rate Decay
-
+<img width="804" alt="Screenshot 2025-07-06 at 11 34 08 PM" src="https://github.com/user-attachments/assets/8b5e2631-0ef7-4705-94dd-50dfb5e5916e" />

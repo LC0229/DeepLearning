@@ -18,3 +18,7 @@ Case3:
 <img width="958" alt="Screenshot 2025-07-07 at 12 19 38 AM" src="https://github.com/user-attachments/assets/8bd815cb-50af-4989-be7e-054b6d989884" />
 
 
+Case4:
+✅ Automatic mixed precision
+✅ Gradient accumulation
+<img width="1122" alt="Screenshot 2025-07-07 at 12 53 12 AM" src="https://github.com/user-attachments/assets/bff0e436-7129-45ad-aa93-23254c3cb4b6" />
